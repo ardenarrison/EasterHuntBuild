@@ -1,0 +1,7 @@
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\WindowsApp.Form1.resources
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\EasterHuntLauncher.Properties.Resources.resources
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\EasterHuntLauncher.csproj.GenerateResource.cache
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\EasterHuntLauncher.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\EasterHuntLauncher.AssemblyInfoInputs.cache
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\EasterHuntLauncher.AssemblyInfo.cs
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\EasterHuntLauncher.csproj.CoreCompileInputs.cache

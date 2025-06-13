@@ -1,0 +1,17 @@
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\WindowsApp.Form1.resources
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\WindowsApp.csproj.GenerateResource.cache
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\WindowsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\WindowsApp.AssemblyInfoInputs.cache
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\WindowsApp.AssemblyInfo.cs
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\WindowsApp.csproj.CoreCompileInputs.cache
+E:\Code\Apps\Test\WindowsApp\bin\Debug\net9.0-windows\WindowsApp.exe
+E:\Code\Apps\Test\WindowsApp\bin\Debug\net9.0-windows\WindowsApp.deps.json
+E:\Code\Apps\Test\WindowsApp\bin\Debug\net9.0-windows\WindowsApp.runtimeconfig.json
+E:\Code\Apps\Test\WindowsApp\bin\Debug\net9.0-windows\WindowsApp.dll
+E:\Code\Apps\Test\WindowsApp\bin\Debug\net9.0-windows\WindowsApp.pdb
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\WindowsApp.dll
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\refint\WindowsApp.dll
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\WindowsApp.pdb
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\WindowsApp.genruntimeconfig.cache
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\ref\WindowsApp.dll
+E:\Code\Apps\Test\WindowsApp\obj\Debug\net9.0-windows\WindowsApp.Properties.Resources.resources
