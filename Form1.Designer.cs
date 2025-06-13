@@ -42,12 +42,13 @@
             // 
             // LauncherButton
             // 
-            LauncherButton.Location = new Point(603, 301);
+            LauncherButton.BackColor = SystemColors.ActiveCaption;
+            LauncherButton.Location = new Point(615, 367);
             LauncherButton.Name = "LauncherButton";
-            LauncherButton.Size = new Size(75, 23);
+            LauncherButton.Size = new Size(173, 71);
             LauncherButton.TabIndex = 2;
             LauncherButton.Text = "Launch";
-            LauncherButton.UseVisualStyleBackColor = true;
+            LauncherButton.UseVisualStyleBackColor = false;
             LauncherButton.Click += button2_Click_1;
             // 
             // imageList1
@@ -59,6 +60,7 @@
             // Label1
             // 
             Label1.AutoSize = true;
+            Label1.ForeColor = SystemColors.ActiveCaption;
             Label1.Location = new Point(306, 80);
             Label1.Name = "Label1";
             Label1.Size = new Size(65, 15);
@@ -78,6 +80,7 @@
             // label2
             // 
             label2.AutoSize = true;
+            label2.ForeColor = SystemColors.ActiveCaption;
             label2.Location = new Point(48, 80);
             label2.Name = "label2";
             label2.Size = new Size(252, 15);
@@ -98,6 +101,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.Highlight;
             ClientSize = new Size(800, 450);
             Controls.Add(pictureBox2);
             Controls.Add(label2);
